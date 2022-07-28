@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithboppey&label=Profile%20views&color=0e75b6&style=flat" alt="rohithboppey" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithboppey" alt="rohithboppey" /></a> </p>
-
 - 🔭 I’m currently working on [Building new projects to fill my portfolio](https://rohithboppey.netlify.app)
 
 - 🌱 I’m currently learning **ReactJS and few other web scraping technologies.**
