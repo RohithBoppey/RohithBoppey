@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rohithboppey.netlify.app)
+[![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://rohithboppey.netlify.app)
 <h1 align="center">Hi 👋, I'm Rohith Boppey</h1>
 <h3 align="center">A passionate Full Stack developer from India and an occasional Gamer.</h3>
 
