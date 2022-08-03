@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rohithboppey1298@gmail.com**
 
-- ⚡ Fun fact **Manners maketh man.**
+- ⚡ Fun fact **You get closer to perfection not when there's nothing else to add, but when there's nothing more to remove.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
