@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Rohith Boppey</h1>
 <h3 align="center">Backend & Platform Engineer | Distributed Systems | Data Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithboppey&label=Profile%20views&color=0e75b6&style=flat" alt="rohithboppey" /> </p>
-
 - Currently working as **Software Engineer 2 at SuperAGI** — building a unified analytics engine over ClickHouse in Go
 
 - Previously at **Couture.AI** — architected low-latency search infrastructure serving **6M+ SKUs** for e-commerce enterprises like AJIO
