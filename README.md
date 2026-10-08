@@ -1,6 +1,17 @@
 [![MasterHead](assets/ocean-sunset.gif)](https://rohithboppey.netlify.app)
 <h1 align="center">Hi, I'm Rohith Boppey</h1>
-<h3 align="center">Backend & Platform Engineer | Distributed Systems | Data Engineering</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tagline-dark.svg">
+    <img src="assets/tagline-light.svg" alt="backend & platform engineer · distributed systems · data engineering · go · python · kafka · clickhouse">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://rohithboppey.netlify.app"><img src="https://img.shields.io/badge/website-rohithboppey.netlify.app-0d1117?style=flat-square&logo=netlify&logoColor=white" alt="Website"></a>
+  <a href="https://linkedin.com/in/rohithboppey"><img src="https://img.shields.io/badge/linkedin-rohithboppey-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/RohithBoppey/"><img src="https://img.shields.io/badge/leetcode-RohithBoppey-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+</p>
 
 - Currently working as **Software Engineer 2 at SuperAGI** — building a unified analytics engine over ClickHouse in Go
 
@@ -13,12 +24,6 @@
 - Ask me about **Go, Python/FastAPI, Kafka, ClickHouse, Redis, distributed systems**
 
 - Reach me at **rohithboppey1298@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohithboppey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohithboppey" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/camyleet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="camyleet" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
