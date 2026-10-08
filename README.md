@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://rohithboppey.netlify.app)
+[![MasterHead](assets/ocean-sunset.gif)](https://rohithboppey.netlify.app)
 <h1 align="center">Hi, I'm Rohith Boppey</h1>
 <h3 align="center">Backend & Platform Engineer | Distributed Systems | Data Engineering</h3>
 
